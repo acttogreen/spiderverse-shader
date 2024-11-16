@@ -1,6 +1,6 @@
 ![](TechDemo.gif)
 
-# spiderverse shader for unity
+# Spiderverse shader for unity
 built in shaderlab code HLSL
 
 a case study of Ben-Day Dots as seen in spiderverse
